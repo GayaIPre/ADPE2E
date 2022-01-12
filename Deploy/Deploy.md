@@ -98,10 +98,10 @@ In this section you will use the Azure Portal to create a Resource Group that wi
 In this section you will use automated deployment and ARM templates to automate the deployment of all Azure Data Services used in labs 1 through to 5.
 
 1. You can deploy all Azure services required in each lab by clicking the **Deploy to Azure** button below. 
-
   <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FfabragaMS%2FADPE2E%2Fmaster%2FDeploy%2Fazuredeploy.json" target="_blank">
     <img src="https://github.com/fabragaMS/ADPE2E/raw/master/Deploy/Media/deploytoazure.png"/>    
 </a>
+
 2. On the **Deploy to Azure - Setup** page provide:
     <br>- Your organisation directory
     <br>- The subscription you want to use
